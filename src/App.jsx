@@ -17,8 +17,8 @@ const App = () => {
                   class="aspect-[64/85] object-cover object-top w-full cursor-pointer  border-b-2 border-transparent" />
               </div>
               <div class="flex-1">
-                {/* <img src="https://readymadeui.com/images/fashion-img-1.webp" alt="Product"
-                  class="w-full  aspect-[548/712] object-cover" /> */}
+                <img src="https://readymadeui.com/images/fashion-img-1.webp" alt="Product"
+                  class="w-full  aspect-[548/712] object-cover" />
               </div>
             </div>
           </div>
